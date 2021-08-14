@@ -1,6 +1,6 @@
 # Maze Game
 ## Maze Game In C++  <br/>
-The maze game is a console application and is played on the console. <br/>
+The maze game is a console application. <br/>
 It is designed with standard C++ libraries. <br/>
 The game does not have a GUI library.
 <br/> <br/>
